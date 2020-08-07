@@ -41,8 +41,8 @@ https://sheeptester.github.io/javascripts/utilities.js
 
 # some useful refrences
 1) how to create block:  https://medium.com/@hiroyuki.osaki/how-to-develop-your-own-block-for-scratch-3-0-1b5892026421
-2) how to create  extension to load any extension through its url:  
+2) how to create  extension to load other extension through its url:  
 https://github.com/SheepTester/scratch-gui
-Load an extension from the URL: gui, vm
+
 https://drive.google.com/file/d/1nMmWN68Ca_8PKSgv_hgbZTacNIsyMzws/view?usp=sharing
 render-gui
